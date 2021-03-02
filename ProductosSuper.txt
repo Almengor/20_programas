@@ -1,0 +1,5 @@
+ Nombre factura: ALA Nombre producto: ManzanaNombre producto: GilleteTotal 21.71 
+**************************
+ Nombre factura: Papel Nombre producto: Sandiacantidad 2
+Total 12.65 
+**************************
